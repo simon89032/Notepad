@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/rec">
-        <file>icons/main-icon.png</file>
-    </qresource>
-</RCC>
